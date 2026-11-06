@@ -1,0 +1,6 @@
+[submodule "trap-positive-osteoclasts"]
+	path = trap-positive-osteoclasts
+	url = https://github.com/shtengel/trap-positive-osteoclasts.git
+[submodule "incucyte_osteoclasts"]
+	path = incucyte_osteoclasts
+	url = https://github.com/shtengel/incucyte_osteoclasts.git
